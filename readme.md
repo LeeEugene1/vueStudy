@@ -1,4 +1,10 @@
-# hello-world
+# TodoList
+vue 기초문법을 학습하여 todoList구현
+* v-model
+* @click
+* v-for
+* props, state
+* @emit
 
 ## Project setup
 ```
